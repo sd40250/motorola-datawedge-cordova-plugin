@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Cordova Motorola DataWedge Plugin ============",
   "cordova": {
-    "id": "com.bluefletch.motorola",
+    "id": "motorola-datawedge-cordova-plugin",
     "platforms": [
       "android"
     ]
